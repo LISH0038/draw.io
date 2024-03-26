@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T17:18:08.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tl5f2kWnscdB-StX3OzR" version="24.0.5" type="github">
-  <diagram name="Page-1" id="lxLUyDZ-_mMBVK15Qsm0">
+<mxfile host="app.diagrams.net" modified="2024-03-26T17:18:44.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2Xuj3MAMtWVoKY7DTGdF" version="24.0.5" type="github" pages="2">
+  <diagram name="910B" id="lxLUyDZ-_mMBVK15Qsm0">
     <mxGraphModel dx="794" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -211,6 +211,14 @@
         <mxCell id="LVG8VVzXwPnrs3J6AXQO-65" value="L3 Cache" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="103" y="379" width="57" height="33" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-APn7cizpC-4NWeEESLW" name="Page-2">
+    <mxGraphModel dx="794" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
